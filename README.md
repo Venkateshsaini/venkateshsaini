@@ -7,7 +7,7 @@
 - **Email:** venkateshsaini2002@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/venkatesh-s-99511129b)
 - **GitHub:** [Your GitHub Profile](https://github.com/venkateshsaini)
-- **LeetCode:** [Your LeetCode Profile](https://leetcode.com/venkateshsaini21)
+- **LeetCode:** [Your LeetCode Profile](https://leetcode.com/venkateshsaini2002)
 
 ## Professional Summary
 
