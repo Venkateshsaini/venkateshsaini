@@ -2,8 +2,6 @@
 
 # Saini Venkatesh
 
-- **Location:** Gambhiraopet, Sircilla, Telangana 505304
-- **Phone:** +91 8978915037
 - **Email:** venkateshsaini2002@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/venkatesh-s-99511129b)
 - **GitHub:** [Your GitHub Profile](https://github.com/venkateshsaini)
